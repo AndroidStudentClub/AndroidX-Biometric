@@ -1,0 +1,16 @@
+<resources>
+  <string name="app_name">SecurePass</string>
+  <string name="auth_title">Authentication Required!</string>
+  <string name="auth_subtitle">Important authentication</string>
+  <string name="auth_description">Please authenticate to be able to view your account information</string>
+  <string name="label_account_info">Account Info</string>
+  <string name="label_name">Name</string>
+  <string name="label_email">Email</string>
+  <string name="label_phone">Phone</string>
+  <string name="label_save_changes">Save changes</string>
+  <string name="error_msg_no_biometric_hardware">No biometric features available on this device.</string>
+  <string name="error_msg_biometric_hw_unavailable">Biometric features are currently unavailable.</string>
+  <string name="error_msg_biometric_not_setup">The user hasn\'t associated any biometric credentials with their account.</string>
+  <string name="error_msg_auth_error">Authentication error: %1$s</string>
+  <string name="error_msg_auth_failed">Authentication failed</string>
+</resources>
